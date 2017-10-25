@@ -6,4 +6,4 @@ permalink: /about/
 
 ![girl](https://byizzy.github.io/annagong/girl.png)
 
-Hi, my name is Anna Gong and I'm a high school senior in Southern California. I'm 17, and I love to draw. My favorite subjects are something and something, and this is another super artsy fact about me because that's just how cool and aloof I truly am. Here is a one last thing about me, what a great time.
+Hi, my name is Anna! I'm a 17-year-old art student in Southern California. I make a lot of work in a variety of mediums, including both digital and traditional art. My primary focus right now is improving my style, technique, and vision. If you're interested in a commission of any kind, email me at agong1@hwemail.com. Thanks for stopping by!
