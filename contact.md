@@ -3,7 +3,7 @@ layout: page
 title: contact
 permalink: /contact/
 ---
-Fill out the form to get in touch :)
+Fill out the form to get in touch about commisions :)
 
 <form action="https://formspree.io/agong1@hwemail.com"
       method="POST">
