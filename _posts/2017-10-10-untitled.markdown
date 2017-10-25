@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Untitled"
+date:   2017-10-10 15:39:40
+preview: https://byizzy.github.io/annagong/portfolio/untitled.JPG
+---
+
+![Picture 1](https://byizzy.github.io/annagong/portfolio/untitled.JPG)

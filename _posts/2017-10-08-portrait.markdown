@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Portrait"
+date:   2017-10-08 15:39:40
+preview: https://byizzy.github.io/annagong/portfolio/portrait.JPG
+---
+
+![Picture 1](https://byizzy.github.io/annagong/portfolio/portrait.JPG)

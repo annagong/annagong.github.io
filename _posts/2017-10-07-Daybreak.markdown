@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Daybreak"
+date:   2017-10-07 15:39:40
+preview: https://byizzy.github.io/annagong/portfolio/Daybreak.png
+---
+
+![Picture 1](https://byizzy.github.io/annagong/portfolio/Daybreak.png)
