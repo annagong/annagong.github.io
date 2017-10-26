@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Portrait Study 17"
-date:   2017-10-09 15:39:40
+date:   2017-10-02 15:39:40
 preview: https://byizzy.github.io/annagong/portfolio/PortraitStudy17.png
 ---
 
