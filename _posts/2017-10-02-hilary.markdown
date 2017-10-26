@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hilary Hahn"
-date:   2017-10-06 15:39:40
+date:   2017-10-02 15:39:40
 preview: https://byizzy.github.io/annagong/portfolio/HilaryHahn.jpg
 ---
 
