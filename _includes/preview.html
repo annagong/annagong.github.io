@@ -33,13 +33,11 @@
         <ul>
             {% for image in site.static_files %}
                 {% if image.path contains 'portfolio' %}
-                    <li>
                         <div class="col-xs-12 col-sm-4 col-md-4">
                             <a href="{{ site.url }}{{ image.path }}">
                                 <img src="{{ site.url }}{{ image.path }}">
                             </a>
                         </div>
-                    </li>
                 {% endif %}
             {% endfor %}
         </ul>
