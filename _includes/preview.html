@@ -46,10 +46,12 @@
         {% if image.path contains 'portfolio' %}
              {% cycle 'add row' : '<div class="row">', '', '' %} 
                 <div class="column column-33">
+                    <div class="preview-panel">
                     <!-- liquid tags here -->
                     <a href="{{ site.url }}{{ image.path }}">
                         <img src="{{ site.url }}{{ image.path }}">
                     </a>
+                    </div>
                 </div>
              {% cycle 'end row' : '', '', '</div>' %} 
         {% endif %}
