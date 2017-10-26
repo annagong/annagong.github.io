@@ -1,4 +1,4 @@
-<!-- {% for post in site.posts %}
+{% for post in site.posts %}
     {% cycle 'add row' : '<div class="row">', '', '' %}
         <div class="column column-33">
             <div class="preview-panel">
@@ -10,7 +10,7 @@
         </div>
 {% cycle 'end row' : '', '', '</div>' %}
 {% endfor %}
-{% cycle 'end row' : '', '</div>', '</div>' %} -->
+{% cycle 'end row' : '', '</div>', '</div>' %}
 
 <!-- {% for image in site.static_files %}
    {% if image.path contains 'portfolio' %}
@@ -42,12 +42,12 @@
     </div>
 </div>
  -->
-    {% for image in site.static_files %}
+<!--     {% for image in site.static_files %}
         {% if image.path contains 'portfolio' %}
              {% cycle 'add row' : '<div class="row">', '', '' %} 
                 <div class="column column-33">
                     <div class="preview-panel">
-                    <!-- liquid tags here -->
+                   
                     <a href="{{ site.url }}{{ image.path }}">
                         <img src="{{ site.url }}{{ image.path }}">
                     </a>
@@ -56,4 +56,4 @@
              {% cycle 'end row' : '', '', '</div>' %} 
         {% endif %}
     {% endfor %}
-     {% cycle 'end row' : '', '</div>', '</div>' %}
+     {% cycle 'end row' : '', '</div>', '</div>' %} -->
